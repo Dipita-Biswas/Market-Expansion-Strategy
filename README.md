@@ -9,7 +9,7 @@ This project was completed as part of a consulting engagement with a Canada-base
 - Developed a go-to-market strategy projecting 18% YoY customer growth
 
 ## Repository Contents
--`Simon Vision Consulting_Final Presentation`: Final presentation deck with strategic recommendations (company-identifying details removed)
+-`SVC_Final Presentation`: Final presentation deck with strategic recommendations (company-identifying details removed)
 
 
 ## My Role
