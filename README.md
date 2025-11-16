@@ -16,7 +16,7 @@ This project was completed as part of a consulting engagement with a Canada-base
 As a Strategy Consultant, I led the market analysis and go-to-market planning, contributing to city prioritization, competitor research, and growth modeling.
 
 ## Tools Used
-- Excel and SQL (data modeling and financial projections)
+- Excel, Python and SQL (data modeling and financial projections)
 - PowerPoint (presentation development)
 - Google Forms & Sheets (interview collection and synthesis)
 
